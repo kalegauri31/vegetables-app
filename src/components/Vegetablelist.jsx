@@ -1,5 +1,6 @@
 import vegetables from "../data/vegetables";
 import VegetableCard from "./VegetableCard";
+import VegetableList from "./vegetableList";
 
 function VegetableList() {
   return (
